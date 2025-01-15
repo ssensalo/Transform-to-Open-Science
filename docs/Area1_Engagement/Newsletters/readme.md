@@ -1,14 +1,8 @@
 # TOPS Newsletters
 Browse through our archive of past TOPS newsletters to rediscover valuable news, content, and links that were previously distributed.  Enjoying this content?  Stay up to date with our monthly newsletter releases and [sign up](https://nasa.github.io/Transform-to-Open-Science/signup/) for our email list.
 
-## 2023
-- [June Newsletter](https://conta.cc/43UWT0T)
-- [July Newsletter](https://conta.cc/3pvUriO)
-- [August Newsletter](https://conta.cc/3Yr6r1N)
-- [September Newsletter](https://conta.cc/3QZjuGa)
-- [October Newsletter](https://conta.cc/3rr0B4F)
-- [November Newsletter](https://conta.cc/3tN5Nka)
-- [December Newsletter](https://conta.cc/3Gy0qZ6)
+## 2025
+- [January Newsletter](https://conta.cc/4h5tbMZ)
 
 ## 2024
 - [January Newsletter](https://conta.cc/41PM00u)
@@ -23,3 +17,12 @@ Browse through our archive of past TOPS newsletters to rediscover valuable news,
 - [October Newsletter](https://conta.cc/3ZZ3yYZ)
 - [November Newsletter](https://conta.cc/4ffIbr5)
 - [December Newsletter](https://conta.cc/3D3eYla)
+
+## 2023
+- [June Newsletter](https://conta.cc/43UWT0T)
+- [July Newsletter](https://conta.cc/3pvUriO)
+- [August Newsletter](https://conta.cc/3Yr6r1N)
+- [September Newsletter](https://conta.cc/3QZjuGa)
+- [October Newsletter](https://conta.cc/3rr0B4F)
+- [November Newsletter](https://conta.cc/3tN5Nka)
+- [December Newsletter](https://conta.cc/3Gy0qZ6)
