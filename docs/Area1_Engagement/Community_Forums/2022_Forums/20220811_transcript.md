@@ -10,7 +10,7 @@ But when in doubt, we encourage to look to these principles for guidance, practi
 
 00:00:57:39 - 00:01:37:07
 Cynthia Hall
-Attempt collaboration before a conflict. Treat other people's identities and cultures with respect. Be mindful of your surroundings and of your fellow participants, and please alert community leaders if you notice a dangerous situation, someone in distress or violation of this code of conduct, even if they seem inconsequential. The primary goal of tops is to be inclusive to the largest number of contributors with the most varied and diverse backgrounds possible and we expect everyone to comply with this code of conduct, communicating openly with respect for others, and critiquing ideas rather than individuals.
+Attempt collaboration before a conflict. Treat other people's identities and cultures with respect. Be mindful of your surroundings and of your fellow participants, and please alert community leaders if you notice a dangerous situation, someone in distress or violation of this code of conduct, even if they seem inconsequential.
 
 00:01:37:42 - 00:01:59:42
 Cynthia Hall
@@ -118,7 +118,7 @@ Next slide, please Chelle.b By the end of the Ethos to Open Science Module, we h
 
 00:13:07:22 - 00:13:36:40
 Isabella Martinez
-And finally, we hope that this module will explore how Open science seeks to create a more diverse, equitable and inclusive and accessible scientific community as well as accessible and transparent research. We are hoping to structure the module by beginning with an introduction, moving into the principles, focusing on communities, then the benefits and challenges, and finally ending with uplifting and inspiring open science stories such as those that are open court subject matter experts have already shared on the GitHub.
+We are hoping to structure the module by beginning with an introduction, moving into the principles, focusing on communities, then the benefits and challenges, and finally ending with uplifting and inspiring open science stories such as those that are open court subject matter experts have already shared on the GitHub.
 
 00:13:36:40 - 00:13:57:32
 Isabella Martinez
@@ -126,11 +126,11 @@ The next slide describes the module objectives for the Open Tools and Resources 
 
 00:13:58:12 - 00:14:37:11
 Isabella Martinez
-The structure of this module will focus first on introduction to tools for open science generally before diving into what is going to be covered in the next three modules, data, software and results. And finally, end of community stories. Again, the data, software and results modules we hope will be structured a little bit. Similarly, in order to provide flow between the different models, we're going to begin with using open data software results, making open data software a result, and then finally sharing open data software results with community stories sprinkled throughout to give a hands on and practical examples to how open data, open software and open results are building a more inclusive scientific community as well
+The structure of this module will focus first on introduction to tools for open science generally before diving into what is going to be covered in the next three modules, data, software and results. And finally, end of community stories. Again, the data, software and results modules we hope will be structured a little bit.
 
 00:14:37:11 - 00:14:56:47
 Isabella Martinez
-as more transparent and replicable research. The open data model is centered on the use of data repositories, both as a user and as a contributor. By the end of the module, we're hoping that learners should feel comfortable creating a data management plan that follows their principles. That is, data which is findable, accessible, interoperable and reusable by both humans and machines.
+The open data model is centered on the use of data repositories, both as a user and as a contributor. By the end of the module, we're hoping that learners should feel comfortable creating a data management plan that follows their principles. That is, data which is findable, accessible, interoperable and reusable by both humans and machines.
 
 00:14:57:12 - 00:15:20:31
 Isabella Martinez

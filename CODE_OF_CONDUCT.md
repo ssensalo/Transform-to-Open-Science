@@ -11,18 +11,16 @@ Anyone experiencing or witnessing behavior that constitutes an immediate or seri
 
 ## Purpose
 
-A primary goal of Transform To Open Science is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion.
+A primary goal of Transform To Open Science is to host the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe, and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion.
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.  A supplemental goal of this Code of Conduct is to increase open science citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
 We invite all those who participate in Transform To Open Science to help us create safe and positive experiences for everyone.
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
-[NASA's policies on anti-harassment and diversity](https://www.nasa.gov/offices/odeo/policy-and-publications)
-
 ## What We Strive For
 
-We strive to create a welcoming and inclusive culture that empowers people to provide outstanding open science. That requires an open exchange of ideas balanced by thoughtful guidelines. If we have only openness, colleagues who are on the receiving end of thoughtless or intentionally hurtful comments and behavior may reasonably withdraw. If we have overly intrusive guidelines, people may feel unwelcome.
+We strive to create a welcoming culture that empowers people to provide outstanding open science. That requires an open exchange of ideas balanced by thoughtful guidelines. If we have only openness, colleagues who are on the receiving end of thoughtless or intentionally hurtful comments and behavior may reasonably withdraw. If we have overly intrusive guidelines, people may feel unwelcome.
 
 It would be impossible to list everything staff can do to create a more welcoming space, and we know this team will find ways to include their colleagues that we haven't even thought of. But when in doubt, we encourage you to look to these principles for guidance:
 

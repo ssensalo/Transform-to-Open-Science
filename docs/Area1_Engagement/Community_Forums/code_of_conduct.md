@@ -4,10 +4,6 @@ Be kind and collaborative. Critique ideas, not people. Communicate freely while 
 
 ## Extended Version
 
-### Diversity Statement
-
-At NASA, diversity, equity, inclusion, and accessibility are central to mission success. By fostering an atmosphere of inclusion and respect for all, we value the strengths afforded by both our commonalities and differences with an aim to fully engage and utilize talents, ideas, and perspectives. Projects and missions that offer an opportunity to tap the nation’s diverse talent pool and broaden participation across NASA Science are strongly encouraged. NASA is interested in increasing diversity of race/ethnicity, gender, and career stage in science teams.
-
 ### Expected Behavior
 
 All participants in TOPS community forums are to:

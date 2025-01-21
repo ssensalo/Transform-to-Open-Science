@@ -18,7 +18,7 @@
 
 ## [F.8 Supplements for Open-Source Science (SOSS)](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7B2B66037B-0507-568E-5D64-2A3B61DF0195%7D&path=&method=init)
 **SOSS supports the addition of an open science component to an existing "parent" ROSES award.**
-- This could include making the results of the parent award more accessible, inclusive, and usable, or contributing back to relevant open science communities. This could also include cloud credits (through Amazon Web Services - AWS) to support activities from the parent award.
+- This could include making the results of the parent award more accessible, and usable, or contributing back to relevant open science communities. This could also include cloud credits (through Amazon Web Services - AWS) to support activities from the parent award.
  - Awards are for work up to one year and will be dispensed as augmentations to existing awards
       - ~$10K for cloud credits
       - ~$50k otherwise
@@ -34,7 +34,7 @@
      - Events focused on Science Mission Directorate data, software, or open science practices
      - Hackathons, un-conferences, and challenges that build open science skills
      - Focused training in open science practices and principles
-     - Events MUST be openly available and allow for inclusive participation 
+     - Events MUST be openly available
 - Potential proposers must confirm relevancy and availability of funds with a SMD program officer before preparing or submitting a proposal. TWSC has no dedicated funding, so proposers are directed to first contact a NASA division, office, or program that may have funding before preparing a proposal. See section 4.2.1 of the NOFO for information to include in an inquiry email and section 7.0 for contact information for Open Science TWSC inquiries.
 
 
