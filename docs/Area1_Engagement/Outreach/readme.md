@@ -14,13 +14,7 @@ These sessions will educate the public about NASA’s Open-Source science Initia
 
 ### Come join us! 
 
-Upcoming Forum: [March Community Forum on Open Science: Challenges and Opportunities for Diversity, Equity, and Inclusion](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Community_Forums/20230309_community_forum.md) 
-
-When: March 09, 2022, 1PM EDT (UTC -4)
-
-[Registration Link](https://go.nasa.gov/3EG6uye)
-
-[Question Submission Link](https://nasa.cnf.io/sessions/kzbb/#!/dashboard)
+No Upcoming Community Forums
 
 ## Community Panel
 The TOPS Community Panel is another way we create community and discover best practices for engagement. This event brings together leaders from the open science, open source software, and data science communities with the NASA TOPS team for a detailed review of TOPS plans and vibrant discussion.  Panelists review and provide input on NASA’s strategy for transitioning to open-source science. Feedback helps us shape engagement and community building practices for the Year of Open Science in 2023. Information on the latest panel can be found [here](/docs/Area1_Engagement/Community_Panels/readme.md).
